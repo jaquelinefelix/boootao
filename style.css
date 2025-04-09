@@ -1,0 +1,16 @@
+/*Estilize o botão conforme suas preferências*/
+.save-button {
+background-color: #ff0000; /* Vermelho
+color: #ffffff; /* Texto Branco */
+border: none;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+opacity: 0.8; /* Opacidade */
+transition: opacity 0.3 ease; /* Transição */
+border-radius: 5%;
+}
+
+.save-button:hover {
+    opacity: 1; /* Opacidade total ao passar
+}
